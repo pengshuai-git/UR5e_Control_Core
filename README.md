@@ -35,4 +35,4 @@
 2. 在 VOFA+ 中打开 COM3，将数据引擎设置为 `RawData`，并点亮 `DTR` 和 `RTS`。
 3. 运行 Python 主程序：
    ```bash
-   python serial_arm.py
+   python main.py
